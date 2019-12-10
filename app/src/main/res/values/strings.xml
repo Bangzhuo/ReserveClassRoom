@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ClassRoom Reservation</string>
+    <string name="home_title">Classroom Reservation</string>
+    <string name="item_start_time">Starting time </string>
+    <string name="item_end_time">Finishing time  </string>
+    <string name="item_adress">Location:</string>
+    <string name="uesr_name">NetID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Click again to exit the app</string>
+    <string name="orderClassroom">Classroom reservation</string>
+    <string name="number">NetID</string>
+    <string name="peopleNum">Number of students</string>
+    <string name="content">Usage of room</string>
+    <string name="sure">reserve now</string>
+    <string name="cancle">cancel reservation</string>
+    <string name="no_write">please fill the blank</string>
+    <string name="no_sel">please choose</string>
+    <string name="order_new">reserve a classroom</string>
+    <string name="order_my">my reservation</string>
+    <string name="order_details">detail of reservation</string>
+    <string name="sel_time_8">please choose time after 8am</string>
+    <string name="no_sel_time">please choose later time</string>
+    <string name="sel_time_22">please choose time before 10pm</string>
+    <string name="before_start_time">cannot before stating time</string>
+    <string name="sel_start_time">please choose start time first</string>
+    <string name="order_success">Successful Reservation</string>
+    <string name="loading">Loading...</string>
+    <string name="cancle_success">cancel successfully</string>
+    <string name="error_password">Wrong Password</string>
+</resources>
